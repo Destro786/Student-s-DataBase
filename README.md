@@ -22,7 +22,7 @@ time only 11 students can be accomodated)...so it will check whether the a time 
 7] when the students details is accepted then the accepted data is inserted to the main database..
 8] then program again go to (see step 1)..
 9]if the user wants to dlete the database then it simply searchs for the uid and if the uid is present it prompts for confirmation then the database of that particular student is deleted...and process will again go to step 1
-10] id the user wants to edit the then its asks the feilds to be edited....and then after the editing is completed then it puts the edited enrty in the main database (deleting the previous records of that particular uid)....and then it goes to step 1
+10] if the user wants to edit the then its asks the feilds to be edited....and then after the editing is completed then it puts the edited enrty in the main database (deleting the previous records of that particular uid)....and then it goes to step 1
 11] if the user wants to search then user must enter the uid and the results will we display according to thr saved database.
 12]  if the user wantes to display the current database then the program will display the complete database...and after the process is completed then the program will return to step 1.
 13] in each of the mentioned step there will be an option to terminate the process.....
