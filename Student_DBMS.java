@@ -606,7 +606,7 @@ public class Student_DBMS
         System.out.println("THANKS FOR USING OUR APPLICATION");
         System.out.println("Author : Gaurav Aggarwal");
         System.out.println("Date Created : 30-04-2017");
-        System.out.println("Special Thanks To : Raja Sir");
+
     }
 
     public static void main(String args[])throws IOException
