@@ -1,11 +1,15 @@
 # Student-s-DataBase
-A Simple Database Management System
-Things Done in this project....
+A Simple Database Management System.
+THIS IS COMPLETELY A CUI BASED PROJECT.
+
+Realworld Problem :- 
 
 
-There is a instituition where there are 11 computers and classes are taken daily
-So here the program is intended to manage and keep all the records of the students studying there...
+There is a computer instituition where there are 11 computers and classes are held daily.
+Here the program is intended to manage and keep all the records of the students studying there...
 EACH STUDENTS GETS TWO CLASSES IN A WEEK...ONE MIGHT DO A SINGLE CLASS IN A WEEK
+
+
 The program works like this....
 
 1]firstly it accepts what a user wants to do that is whether he/she wants to ADD,DELETE,EDIT,SEARCH,DISPLAY WHOLE DATABSE
