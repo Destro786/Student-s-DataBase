@@ -1,3 +1,6 @@
+/** TO DO ---->
+PACK ALL THE LOCAL AND REPEATED METHODS IN FUNCTIONS.
+**/
 import java.util.*;
 import java.io.*;
 public class Student_DBMS
@@ -183,7 +186,7 @@ public class Student_DBMS
             if(validate_UID(id)==true)
                 break;
             else
-                System.out.println("The Unique ID is inavalid or already used up."+"/n"+"Please re-enter the UID");
+                System.out.println("The Unique ID is invalid or already used up."+"/n"+"Please re-enter the UID");
         }
         System.out.println("Enter the name of the student : ");
         Name=sc3.nextLine();
